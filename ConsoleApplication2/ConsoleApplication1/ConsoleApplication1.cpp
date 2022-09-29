@@ -15,5 +15,5 @@ void main()
 
 	cout << a << "+" << b << "+" << c << "=" << c1 << endl;
 	cout << a << "-" << b << "-" << c << "=" << c2 << endl;
-	cout << a << "/" << b << "/" << c << "=" << c3 << endl;
+	cout << a << "/" << b << "*" << c << "=" << c3 << endl;
 }
